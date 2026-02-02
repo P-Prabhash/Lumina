@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Hub",
+  "description": "A high-performance, 5-page professional AI dashboard template featuring real-time chat, image generation, and search-grounded research powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
